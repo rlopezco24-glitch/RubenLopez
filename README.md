@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola 👋, Soy Rubén López
 
-<!--
-**rlopezco24-glitch/rlopezco24-glitch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/ruben-lopez-cordoba-6253a938a/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:rlopezco24@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>
+  </p>
+  <br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h2>Sobre mi 😃</h2>
+<p align="left">
+🎓 Desarollador Aplicaciones Multiplataforma
+
+💻 Titulación en Sistemas Microinformaticos y Redes y en B2 Inglés.
+
+📫 Contacto: **rlopezco24@gmail.com**
+<!--Intro end-->
+  </p>
+
+
+
+<!-- LENGUAJES Y HERRAMIENTAS -->
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<p align="left">
+  <a href="https://skillicons.dev">
+   <img src="https://skillicons.dev/icons?i=java,css,html,js,mysql,gitlab,github,mongodb,vscode,hibernate" />
+
+  </a>
+</p>
+
